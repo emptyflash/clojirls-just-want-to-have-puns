@@ -1,4 +1,4 @@
-(ns clojurist-just-want-to-have-puns.core
+(ns clojurists-just-want-to-have-puns.core
   (:gen-class)
   (:require [clj-http.client :as client]))
 

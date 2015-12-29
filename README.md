@@ -1,4 +1,4 @@
-# clojurist-just-want-to-have-puns
+# clojurists-just-want-to-have-puns
 
 FIXME: description
 
@@ -10,7 +10,7 @@ Download from http://example.com/FIXME.
 
 FIXME: explanation
 
-    $ java -jar clojurist-just-want-to-have-puns-0.1.0-standalone.jar [args]
+    $ java -jar clojurists-just-want-to-have-puns-0.1.0-standalone.jar [args]
 
 ## Options
 
