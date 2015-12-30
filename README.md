@@ -1,4 +1,4 @@
-# clojurists-just-want-to-have-puns
+# clojirls-just-want-to-have-puns
 
 Nice fun puns in Clojure
 
