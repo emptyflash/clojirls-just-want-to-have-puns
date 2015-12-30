@@ -1,4 +1,4 @@
-(defproject clojurists-just-want-to-have-puns "0.1.0-SNAPSHOT"
+(defproject clojirls-just-want-to-have-puns "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
@@ -6,6 +6,6 @@
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/data.json "0.2.6"]
                  [clj-http "2.0.0"]]
-  :main ^:skip-aot clojurists-just-want-to-have-puns.core
+  :main ^:skip-aot clojirls-just-want-to-have-puns.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})

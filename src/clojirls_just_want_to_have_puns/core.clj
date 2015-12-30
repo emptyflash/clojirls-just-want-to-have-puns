@@ -1,6 +1,6 @@
-(ns clojurists-just-want-to-have-puns.core
+(ns clojirls-just-want-to-have-puns.core
   (:gen-class)
-  (:require [clojurists-just-want-to-have-puns.rhymebrain :as rhymebrain]
+  (:require [clojirls-just-want-to-have-puns.rhymebrain :as rhymebrain]
             [clojure.string :as str]))
 
 (defn get-lines-from-file

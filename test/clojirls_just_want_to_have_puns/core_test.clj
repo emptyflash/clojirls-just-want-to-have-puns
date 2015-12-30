@@ -1,4 +1,4 @@
-(ns clojurists-just-want-to-have-puns.core-test
+(ns clojirls-just-want-to-have-puns.core-test
   (:require [clojure.test :refer :all]
             [clojurist-just-want-to-have-puns.core :refer :all]))
 

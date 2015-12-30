@@ -1,4 +1,4 @@
-(ns clojurists-just-want-to-have-puns.rhymebrain
+(ns clojirls-just-want-to-have-puns.rhymebrain
   (:gen-class)
   (:require [clj-http.client :as client]
             [clojure.data.json :as json]))
