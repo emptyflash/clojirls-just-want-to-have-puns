@@ -9,11 +9,15 @@ Takes a word and a list of phrases and generates puns like:
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download jar file [here](https://github.com/SoftwareWarlock/clojirls-just-want-to-have-puns/releases/download/0.1.0/clojirls-just-want-to-have-puns-0.1.0-SNAPSHOT-standalone.jar)
 
 ## Usage
 
     $ java -jar clojurists-just-want-to-have-puns-0.1.0-standalone.jar [word] [phrases_file]
+
+    *OR*, if you have Leiningen
+
+    $ lein run test phrases/wikipedia-idioms.txt 
 
 ## Options
 
