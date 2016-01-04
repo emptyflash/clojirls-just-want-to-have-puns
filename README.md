@@ -13,7 +13,7 @@ Download jar file [here](https://github.com/SoftwareWarlock/clojirls-just-want-t
 
 ## Usage
 
-    $ java -jar clojurists-just-want-to-have-puns-0.1.0-standalone.jar [word] [phrases_file]
+    $ java -jar clojirls-just-want-to-have-puns-0.1.0-standalone.jar [word] [phrases_file]
 
     *OR*, if you have Leiningen
 
@@ -32,7 +32,7 @@ Download jar file [here](https://github.com/SoftwareWarlock/clojirls-just-want-t
        test interests at heart (pun of best interests at heart)
        test laid plans (pun of best laid plans)
        close to the test (pun of close to the vest)
-    $ java -jar clojurists-just-want-to-have-puns-0.1.0-standalone.jar cat phrases/wikipedia-idioms.txt 
+    $ java -jar clojirls-just-want-to-have-puns-0.1.0-standalone.jar cat phrases/wikipedia-idioms.txt 
     => cat a thousand (pun of bat a thousand)
        cat an eye (pun of bat an eye)
        cat an eyelash (pun of bat an eyelash)
