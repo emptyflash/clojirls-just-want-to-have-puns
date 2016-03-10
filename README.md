@@ -15,9 +15,9 @@ Download jar file [here](https://github.com/SoftwareWarlock/clojirls-just-want-t
 
     $ java -jar clojirls-just-want-to-have-puns-0.1.0-standalone.jar [word] [phrases_file]
 
-    *OR*, if you have Leiningen
+**OR**, if you have Leiningen
 
-    $ lein run test phrases/wikipedia-idioms.txt 
+    $ lein run [word] [phrases_file] 
 
 ## Options
 
